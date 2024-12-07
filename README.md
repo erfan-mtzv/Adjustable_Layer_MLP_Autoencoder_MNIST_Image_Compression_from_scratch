@@ -113,7 +113,6 @@ model.PLOT(epoc, MSE_val_list)  # Plot validation loss over epochs
 ![Reconstructed](./Images/pred.png) 
 
 ### Loss Curve:
-Example of validation MSE decreasing over epochs:
 ![Loss Curve](./Images/diag.png)
 
 ---
