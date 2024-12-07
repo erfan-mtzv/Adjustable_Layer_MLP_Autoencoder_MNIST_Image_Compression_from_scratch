@@ -106,13 +106,13 @@ model.PLOT(epoc, MSE_val_list)  # Plot validation loss over epochs
 
 ---
 
-## Example Results
+## Example Results for mlp with 3 hidden layers of 256,64,256
 
 ### Reconstruction Example:
 ![Original](./Images/mnist.png)  
 ![Reconstructed](./Images/pred.png) 
 
-### Loss Curve:
+### Validation Loss Curve:
 ![Loss Curve](./Images/diag.png)
 
 ---
