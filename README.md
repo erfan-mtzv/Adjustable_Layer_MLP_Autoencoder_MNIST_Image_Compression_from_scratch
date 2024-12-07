@@ -109,8 +109,6 @@ model.PLOT(epoc, MSE_val_list)  # Plot validation loss over epochs
 ## Example Results
 
 ### Reconstruction Example:
-| Input | Compressed Representation | Reconstructed Output |
-|-------|----------------------------|-----------------------|
 | ![Original](mnist.png) | ![Reconstructed](pred.png) |
 
 ### Loss Curve:
